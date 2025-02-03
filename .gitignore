@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs & caches
+npm-debug.log*
+yarn-error.log
+expo/
+.expo/
+.expo-shared/
+
+# React Native Build Files
+android/app/build/
+android/.gradle/
+ios/Pods/
+ios/build/
+*.xcworkspace
+*.xcuserstate
+
+# IDE & System Files
+.vscode/
+.idea/
+.DS_Store

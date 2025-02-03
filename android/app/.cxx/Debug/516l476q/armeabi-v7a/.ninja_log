@@ -1,0 +1,6 @@
+# ninja log v5
+0	6	0	/Users/dikshasharma/Documents/AlgoliaSearch/android/app/.cxx/Debug/516l476q/armeabi-v7a/CMakeFiles/cmake.verify_globs	c12077958c1bb302
+0	927	1738570368778870849	CMakeFiles/appmodules.dir/Users/dikshasharma/Documents/AlgoliaSearch/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	16e7c65a165c14b2
+1	1058	1738570368908321054	CMakeFiles/appmodules.dir/OnLoad.cpp.o	6a76ea25a58cbccc
+1058	1107	1738570368960668308	/Users/dikshasharma/Documents/AlgoliaSearch/android/app/build/intermediates/cxx/Debug/516l476q/obj/armeabi-v7a/libappmodules.so	2d654fc638bed010
+0	7	0	/Users/dikshasharma/Documents/AlgoliaSearch/android/app/.cxx/Debug/516l476q/armeabi-v7a/CMakeFiles/cmake.verify_globs	c12077958c1bb302
